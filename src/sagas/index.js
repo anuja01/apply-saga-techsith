@@ -1,5 +1,6 @@
 import { delay, takeEvery, takeLatest, put, all } from "redux-saga/effects";
 export function* watchAll() {
+    //combine multiple sagas to a root saga
   yield all([
     yield takeLatest("AGE_DOWN", ageDownAsync),
     yield takeEvery("AGE_UP", ageUpAsync),
