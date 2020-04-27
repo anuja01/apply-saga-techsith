@@ -8,3 +8,6 @@ from the command prompt clone the project
 * $npm start
 
 [Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
+
+1. what is the use of 'take' effect?   
+It suspends the saga until a matching action is dispatched
