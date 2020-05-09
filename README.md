@@ -11,3 +11,5 @@ from the command prompt clone the project
 
 1. what is the use of 'take' effect?   
 It suspends the saga until a matching action is dispatched
+
+NOTE: Implement and initialize redux and saga in a separate store file as in redux documentation.
