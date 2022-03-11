@@ -7,7 +7,7 @@ from the command prompt clone the project
 * $npm install
 * $npm start
 
-[Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
+[Watch the Tutorial](https://www.youtube.com/watch?v=eUMbH6X_Adc).
 
 1. what is the use of 'take' effect?   
 It suspends the saga until a matching action is dispatched
